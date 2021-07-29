@@ -1,6 +1,8 @@
-### Bienvenido 👋 Mi nombre es Facundo Frau.
+### Hello 👋 my name is Facundo Frau
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=facufrau&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+[![facufrau's github stats](https://github-readme-stats.vercel.app/api?username=facufrau&show_icons=true&theme=midnight-purple&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![facufrau's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=facufrau&layout=compact&theme=midnight-purple&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **facufrau/facufrau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
