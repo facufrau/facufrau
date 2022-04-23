@@ -1,12 +1,15 @@
 ### Hello 👋 my name is Facundo Frau
 
+🌱 I’m currently learning Frontend Web Development (JS, HTML, CSS, React)
+
 ### My Projects
 
 #### Python projects
 
 * [CS50x 2020/1 Final Project - Blood alcohol content calculator. Written in Python 3 with SQLite3 and Matplotlib](https://github.com/facufrau/CS50x-Final-Project)
 * [Small Python Projects for beginners](https://github.com/facufrau/beginner-projects-solutions)
-* [Advent of code 2020 (https://adventofcode.com/) solutions in Python](https://github.com/facufrau/Advent-of-code-2020)
+* [Advent of code 2020](https://github.com/facufrau/Advent-of-code-2020)
+* [Advent of code 2021](https://github.com/facufrau/advent-of-code-2021)
 
 #### Web Development projects
 
