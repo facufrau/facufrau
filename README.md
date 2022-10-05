@@ -16,7 +16,7 @@
 * Guess the color game: [Repository](https://github.com/facufrau/guess-the-color), [Demo](https://facufrau.github.io/guess-the-color/)
 * Simon: [Repository](https://github.com/facufrau/simon-dice), [Demo](https://facufrau.github.io/simon-dice/)
 * Memory game: [Repository](https://github.com/facufrau/memotest), [Demo](https://facufrau.github.io/memotest/)
-
+* Calculator: [Repository](https://github.com/facufrau/odin-calculator), [Demo](https://facufrau.github.io/odin-calculator/)
 
 
 
