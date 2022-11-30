@@ -1,6 +1,7 @@
 ### Hello 👋 my name is Facundo Frau
 
-🌱 I’m currently learning Frontend Web Development (JS, HTML, CSS, React)
+- 🌱 I’m currently learning Frontend Web Development (JS, HTML, CSS, React)
+- 🔭 I’m currently working on QA Automation with Python and Selenium
 
 ### My Projects
 
@@ -10,6 +11,7 @@
 * [Small Python Projects for beginners](https://github.com/facufrau/beginner-projects-solutions)
 * [Advent of code 2020](https://github.com/facufrau/Advent-of-code-2020)
 * [Advent of code 2021](https://github.com/facufrau/advent-of-code-2021)
+* [Advent of code 2022](https://github.com/facufrau/advent-of-code-2022)
 
 #### Web Development projects
 
